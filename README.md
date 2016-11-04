@@ -15,6 +15,9 @@ We also stored all of the reports in year named folders within the repo itself (
 To solve the storage problem, we have moved everything over to Box (thanks Box, kisses).
 In order to maintain chronological order (and our sanity) we have migrated to CSV and JSON summary file(s).
 
+#How can I download all the reports from Box?
+Our current interim fix for this (shout out to @Taskr) can be found within this issue: https://github.com/aptnotes/data/issues/50
+
 ##APTnotes.csv
 [APTnotes.csv](https://github.com/aptnotes/data/blob/master/APTnotes.csv)
 This a CSV summary file used to keep track of all the goodness
