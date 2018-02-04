@@ -1,5 +1,3 @@
-![alt text](https://app.box.com/representation/file_version_63945070465/image_2048_jpg/1.jpg?shared_name=3f9hioyl85mhd5kyt3y0e17vbuffq9un "APT Notes")
-
 # What is it?
 APTnotes is a repository of publicly-available papers and blogs (sorted by year) related to malicious campaigns/activity/software that have been associated with vendor-defined APT (Advanced Persistent Threat) groups and/or tool-sets.
 
@@ -16,7 +14,8 @@ To solve the storage problem, we have moved everything over to Box (thanks Box, 
 In order to maintain chronological order (and our sanity) we have migrated to CSV and JSON summary file(s).
 
 # How can I download all the reports from Box?
-Our current interim fix for this (shout out to @Taskr) can be found within this issue: https://github.com/aptnotes/data/issues/50
+Use one of the scripts within this repo: https://github.com/aptnotes/tools
+* For historical context, see: https://github.com/aptnotes/data/issues/50
 
 ## APTnotes.csv
 [APTnotes.csv](https://github.com/aptnotes/data/blob/master/APTnotes.csv)
