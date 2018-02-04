@@ -1,16 +1,11 @@
 # What is it?
 APTnotes is a repository of publicly-available papers and blogs (sorted by year) related to malicious campaigns/activity/software that have been associated with vendor-defined APT (Advanced Persistent Threat) groups and/or tool-sets.
 
-# Who birthed this brain child?
-This repo was created by [Kiran Bandla](https://twitter.com/kbandla)
-
-[David Westcott](https://twitter.com/beast_fighter) does things on occasion...
-
 # Where's that data?
 In the original repo, we maintained an ongoing README with links to all of the reports in some form (we tried) order.
 We also stored all of the reports in year named folders within the repo itself (we ran out of room).
 
-To solve the storage problem, we have moved everything over to Box (thanks Box, kisses).
+To solve the storage problem, we have moved everything over to Box (thanks Box!).
 In order to maintain chronological order (and our sanity) we have migrated to CSV and JSON summary file(s).
 
 # How can I download all the reports from Box?
@@ -61,3 +56,11 @@ At present (that we know of...) these current projects consume this repo and mak
 
 # Thank You
 This project would not be where it is without the people that have helped along the way, thank you [contributors](https://github.com/kbandla/APTnotes/blob/master/contributors.md)
+
+# Maintainers
+
+* [David Westcott](https://twitter.com/beast_fighter) 
+* [Kiran Bandla](https://twitter.com/kbandla)
+
+
+
