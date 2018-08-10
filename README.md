@@ -38,7 +38,7 @@ There are multiple ways to get a report added:
     * [@aptnotes](https://twitter.com/aptnotes)
   * Create a new issue on Github including the data you want added (using the default issue template)
     * We created an issue template to take the guesswork out of things
-      * If the document is only available in HTML, print a "clean" version (e.g. with [Readability](https://readability.com/), [Clearly](https://evernote.com/clearly/), or similar) to PDF
+      * If the document is only available in HTML, print a "clean" version (e.g. with [Instapaper](https://instapaper.com/), [Clearly](https://evernote.com/clearly/), or similar) to PDF
 
 # Why do we do it?
 Like almost every open-source project, this is a labor of love. 
