@@ -14,7 +14,7 @@ Use one of the scripts within this repo: https://github.com/aptnotes/tools
 
 ## APTnotes.csv
 [APTnotes.csv](https://github.com/aptnotes/data/blob/master/APTnotes.csv)
-This a CSV summary file used to keep track of all the goodness
+This a CSV summary file used to keep track of all the data
 
 ### Format
 
@@ -56,11 +56,3 @@ At present (that we know of...) these current projects consume this repo and mak
 
 # Thank You
 This project would not be where it is without the people that have helped along the way, thank you [contributors](https://github.com/kbandla/APTnotes/blob/master/contributors.md)
-
-# Maintainers
-
-* [David Westcott](https://twitter.com/ninjininji) 
-* [Kiran Bandla](https://twitter.com/kbandla)
-
-
-
