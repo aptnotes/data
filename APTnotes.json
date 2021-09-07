@@ -4923,6 +4923,15 @@
         "Year": "2020"
     },
     {
+        "Filename": "Talos_InSideCopy(07-07-2021)",
+        "Title": " InSideCopy: How this APT continues to evolve its arsenal ",
+        "Source": "Talos",
+        "Link": "https://app.box.com/s/6cqbzi2d8nerurekjgw9e7e0pgi828ni",
+        "SHA-1": "2f44839afed1c12fd6e2e7f0fa8dd38dd632b065",
+        "Date": "07/07/2021",
+        "Year": "2021"
+    },
+    {
         "Filename": "Volexity_NorthKorean-APT-InkySquid-Infects-Victims-Using-Browser-Exploits(08-17-2021)",
         "Title": "North Korean APT InkySquid Infects Victims Using Browser Exploits",
         "Source": "Volexity",
