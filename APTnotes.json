@@ -4896,6 +4896,15 @@
         "Year": "2019"
     },
     {
+        "Filename": "Fireeye_APT41-Global-Intrusion-Campaign(03-25-2020)",
+        "Title": "This Is Not a Test: APT41 Initiates Global Intrusion Campaign Using Multiple Exploits",
+        "Source": "Fireeye",
+        "Link": "https://app.box.com/s/fiy6f8qswv4yn57kj40gjd56k324vwli",
+        "SHA-1": "5c1475cda2594e45e4f09bfc0c8b351fa70117b9",
+        "Date": "03/25/2020",
+        "Year": "2020"
+    },
+    {
         "Filename": "Kaspersky_Transparent-Tribe-Evolution-analysis-part1(08-20-2020)",
         "Title": "Transparent Tribe: Evolution analysis, part 1",
         "Source": "Kaspersky",
