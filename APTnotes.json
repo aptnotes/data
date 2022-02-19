@@ -4993,5 +4993,14 @@
         "SHA-1": "892e3677718b44d08c8b95f63867c55215931363",
         "Date": "02/09/2022",
         "Year": "2022"
+    },
+    {
+        "Filename": "HVSConsulting_EmissaryPanda(02-14-2022)",
+        "Title": "The APT fallout of vulnerabilities such as ProxyLogon in Exchange (Hafnium), OGNL injection, and log4shell",
+        "Source": "hvs-consulting",
+        "Link": "https://app.box.com/s/mkk5m9l8oozhmwvkqwqkc4uosuwqd6ru",
+        "SHA-1": "957289a738576160892bcaca22df777d63d586ed",
+        "Date": "02/14/2022",
+        "Year": "2022"
     }
 ]
