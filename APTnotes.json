@@ -4995,6 +4995,15 @@
         "Year": "2022"
     },
     {
+        "Filename": "Crowdstrike_StellarParticle-Campaign-Novel-Tactics-Techniques(01-27-2022)",
+        "Title": "Observations from the StellarParticle Campaign",
+        "Source": "crowdstrike",
+        "Link": "https://app.box.com/s/hbbt1tdp1nr2p7tesf1qqm9ehgn8bgfu",
+        "SHA-1": "a16e7cba15ff41a224278d6cb7037e65d8cf6e8b",
+        "Date": "01/27/2022",
+        "Year": "2022"
+    },
+    {
         "Filename": "CyberGeeks_Lazarus-Malware-Notepad-Shell-Extension(01-31-2022)",
         "Title": "A detailed analysis of Lazarus APT malware disguised as Notepad++ Shell Extension",
         "Source": "Cyber Geeks",
