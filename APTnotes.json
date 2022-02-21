@@ -4986,6 +4986,15 @@
         "Year": "2021"
     },
     {
+        "Filename": "CyberGeeks_Lazarus-Malware-Notepad-Shell-Extension(01-31-2022)",
+        "Title": "A detailed analysis of Lazarus APT malware disguised as Notepad++ Shell Extension",
+        "Source": "Cyber Geeks",
+        "Link": "https://app.box.com/s/0gxt5eqkmufgjev73f11zu3yx20yjlhk",
+        "SHA-1": "c6ac7b0a3ee46801869cb818527c42054be86652",
+        "Date": "01/31/2022",
+        "Year": "2022"
+    },
+    {
         "Filename": "SentinalOne_modified-elephant-apt(02-09-2022)",
         "Title": "Modified Elephant APT and a Decade of Fabricating Evidence",
         "Source": "Sentinal One",
@@ -4997,7 +5006,7 @@
     {
         "Filename": "HVSConsulting_EmissaryPanda(02-14-2022)",
         "Title": "The APT fallout of vulnerabilities such as ProxyLogon in Exchange (Hafnium), OGNL injection, and log4shell",
-        "Source": "hvs-consulting",
+        "Source": "HVS Consulting",
         "Link": "https://app.box.com/s/mkk5m9l8oozhmwvkqwqkc4uosuwqd6ru",
         "SHA-1": "957289a738576160892bcaca22df777d63d586ed",
         "Date": "02/14/2022",
