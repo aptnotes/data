@@ -4986,6 +4986,15 @@
         "Year": "2021"
     },
     {
+        "Filename": "MalwareBytes_NorthKoreas-Lazarus-APT-Windows-Update-GitHub(01-27-2022)",
+        "Title": "North Korea\u2019s Lazarus APT leverages Windows Update client, GitHub in latest campaign",
+        "Source": "malwarebytes",
+        "Link": "https://app.box.com/s/iv0aw805g6rsqt0fqk4rm7wbujl90oev",
+        "SHA-1": "99973488f071190f68c62602b55da4c1e6f5c339",
+        "Date": "01/27/2022",
+        "Year": "2022"
+    },
+    {
         "Filename": "CyberGeeks_Lazarus-Malware-Notepad-Shell-Extension(01-31-2022)",
         "Title": "A detailed analysis of Lazarus APT malware disguised as Notepad++ Shell Extension",
         "Source": "Cyber Geeks",
