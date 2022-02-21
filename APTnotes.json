@@ -4986,8 +4986,17 @@
         "Year": "2021"
     },
     {
+        "Filename": "bfv_cyber-brief-Nr1(01-26-2022)",
+        "Title": "BfV Cyber-Brief Nr. 01/2022",
+        "Source": "BfV",
+        "Link": "https://app.box.com/s/d4x8p8nu3658yhlwarws1b8tq3h80g6w",
+        "SHA-1": "c17307c0c37e409e7fc8a7b163b82670f3fce9b2",
+        "Date": "01/26/2022",
+        "Year": "2022"
+    },
+    {
         "Filename": "MalwareBytes_NorthKoreas-Lazarus-APT-Windows-Update-GitHub(01-27-2022)",
-        "Title": "North Korea\u2019s Lazarus APT leverages Windows Update client, GitHub in latest campaign",
+        "Title": "North Korea's Lazarus APT leverages Windows Update client, GitHub in latest campaign",
         "Source": "malwarebytes",
         "Link": "https://app.box.com/s/iv0aw805g6rsqt0fqk4rm7wbujl90oev",
         "SHA-1": "99973488f071190f68c62602b55da4c1e6f5c339",
