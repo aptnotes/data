@@ -4979,7 +4979,7 @@
     {
         "Filename": "Talos-OperationArmorPiercer(09-23-2021)",
         "Title": "Operation Armor Piercer: Targeted attacks in the Indian subcontinent using commercial RATs",
-        "Source": "Talosintelligence",
+        "Source": "Cisco",
         "Link": "https://app.box.com/s/5zr8u8h2xy4tbllcxhashoq48cyetlfk",
         "SHA-1": "2dd9a2380a1145b88d521cc1cd413d7716958810",
         "Date": "09/23/2021",
@@ -5010,6 +5010,15 @@
         "Link": "https://app.box.com/s/mkk5m9l8oozhmwvkqwqkc4uosuwqd6ru",
         "SHA-1": "957289a738576160892bcaca22df777d63d586ed",
         "Date": "02/14/2022",
+        "Year": "2022"
+    },
+    {
+        "Filename": "Fortinet_DriveGuard-Moses-Staff-Campaigns(02-15-2022)",
+        "Title": "Guard Your Drive from DriveGuard: Moses Staff Campaigns Against Israeli Organizations Span Several Months",
+        "Source": "fortinet",
+        "Link": "https://app.box.com/s/7p28si8yrjdrag1cvr43843itdscx8ur",
+        "SHA-1": "d10d8afa48caf110f7e2261e6a5521231d96800d",
+        "Date": "02/15/2022",
         "Year": "2022"
     },
     {
