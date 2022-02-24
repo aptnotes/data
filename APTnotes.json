@@ -5173,5 +5173,14 @@
         "SHA-1": "fdf53fac0af9cced76179fb1b9df0ce009952e36",
         "Date": "02/16/2022",
         "Year": "2022"
+    },
+    {
+        "Filename": "Sentinelone_HermeticWiper-Ukraine(02-23-2022)",
+        "Title": "HermeticWiper - New Destructive Malware Used In Cyber Attacks on Ukraine",
+        "Source": "sentinelone",
+        "Link": "https://app.box.com/s/h298v7gvjrs3yla6djys8pir9vayv6vo",
+        "SHA-1": "6889710cb527eb5d941412a7145d68bbbfa12a10",
+        "Date": "02/23/2022",
+        "Year": "2022"
     }
 ]
