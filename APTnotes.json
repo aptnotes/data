@@ -5058,6 +5058,15 @@
         "Year": "2022"
     },
     {
+        "Filename": "cert.gov.ua_CERT-UA-3799(02-02-2022)",
+        "Title": "Cyber \u200b\u200battack of UAC-0056 group on state organizations of Ukraine using malicious programs SaintBot and OutSteel (CERT-UA # 3799)",
+        "Source": "CERT-UA",
+        "Link": "https://app.box.com/s/gti3fn10hlnanb6c7y50g5n16w8t4cqc",
+        "SHA-1": "f2d9a3ed66dbeb41b5887dab7308059f8e3e6fc4",
+        "Date": "02/02/2022",
+        "Year": "2022"
+    },
+    {
         "Filename": "Symantec_Antlion-ChineseAPT-Target-Financial-Taiwan(02-03-2022)",
         "Title": "Antlion Chinese APT Uses Custom Backdoor to Target Financial Institutions in Taiwan",
         "Source": "Symantec",
