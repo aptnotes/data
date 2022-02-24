@@ -5059,7 +5059,7 @@
     },
     {
         "Filename": "cert.gov.ua_CERT-UA-3799(02-02-2022)",
-        "Title": "Cyber \u200b\u200battack of UAC-0056 group on state organizations of Ukraine using malicious programs SaintBot and OutSteel (CERT-UA # 3799)",
+        "Title": "Cyber attack of UAC-0056 group on state organizations of Ukraine using malicious programs SaintBot and OutSteel (CERT-UA #3799)",
         "Source": "CERT-UA",
         "Link": "https://app.box.com/s/gti3fn10hlnanb6c7y50g5n16w8t4cqc",
         "SHA-1": "f2d9a3ed66dbeb41b5887dab7308059f8e3e6fc4",
@@ -5189,6 +5189,15 @@
         "Source": "cisa",
         "Link": "https://app.box.com/s/653jbuah6rtf91u8v6sz330fka14gy8z",
         "SHA-1": "cd6ceecd02ed516cf106bf855e81fd26b1b51aed",
+        "Date": "02/24/2022",
+        "Year": "2022"
+    },
+    {
+        "Filename": "Symantec_Ukraine-Disk-wiping-Russian-Invasion(02-24-2022)",
+        "Title": "Ukraine: Disk-wiping Attacks Precede Russian Invasion",
+        "Source": "Symantec",
+        "Link": "https://app.box.com/s/0rgnnq0iav3fb7nrpfutf3pynwbpqsv2",
+        "SHA-1": "63e5676ff2013e825dc31e0631369dd466bc4599",
         "Date": "02/24/2022",
         "Year": "2022"
     }
