@@ -4961,7 +4961,7 @@
     {
         "Filename": "TrendMicro_earth-baku-indo-pacific-countries(08-24-2021)",
         "Title": "APT41 Resurfaces as Earth Baku With New Cyberespionage Campaign",
-        "Source": "Trendmicro",
+        "Source": "Trend Micro",
         "Link": "https://app.box.com/s/qtqlwejty7xz8wj8osz98webycgo5j9x",
         "SHA-1": "f5ba5f8240569e08da4796deb95b89ee1340d03d",
         "Date": "08/24/2021",
@@ -5216,6 +5216,15 @@
         "Source": "Symantec",
         "Link": "https://app.box.com/s/0rgnnq0iav3fb7nrpfutf3pynwbpqsv2",
         "SHA-1": "63e5676ff2013e825dc31e0631369dd466bc4599",
+        "Date": "02/24/2022",
+        "Year": "2022"
+    },
+    {
+        "Filename": "PaloAltoNetworks_SockDetour-Fileless-Socketless-Backdoor(02-24-2022)",
+        "Title": "SockDetour Backdoor Targets U.S. Defense Contractors",
+        "Source": "palo alto networks",
+        "Link": "https://app.box.com/s/sp477maf6mq20whuv6gk4pr3us0xas7c",
+        "SHA-1": "7f8679add7d3c25bc6f32fb644a1ee78eb007c7b",
         "Date": "02/24/2022",
         "Year": "2022"
     }
