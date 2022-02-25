@@ -4986,6 +4986,15 @@
         "Year": "2021"
     },
     {
+        "Filename": "CISA_AA22-011A_TLP-WHITE_01-10-22_v1(01-11-2022)",
+        "Title": "Understanding and Mitigating Russian State-Sponsored Cyber Threats to U.S. Critical Infrastructure",
+        "Source": "cisa",
+        "Link": "https://app.box.com/s/koq21d7ksa28pr3oyq0cbyo1gdbho2u3",
+        "SHA-1": "61a5eb27ef3e633be66583c127de39fe19be7fb8",
+        "Date": "01/11/2022",
+        "Year": "2022"
+    },
+    {
         "Filename": "Zscaler_Molerats-APT-targeting-Middle-East(01-20-2022)",
         "Title": "New espionage attack by Molerats APT targeting users in the Middle East",
         "Source": "zscaler",
