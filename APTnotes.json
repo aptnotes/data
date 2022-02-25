@@ -5184,6 +5184,15 @@
         "Year": "2022"
     },
     {
+        "Filename": "Sentinelone_Log4j2-TunnelVision-Exploiting-VMware-Horizon(02-17-2022)",
+        "Title": "Iranian-Aligned Threat Actor ",
+        "Source": "SentinelOne",
+        "Link": "https://app.box.com/s/q1943pvy0ps4oftxo5iad7ngt4py5y51",
+        "SHA-1": "29ba4e36eaa5cd7c1a612f10f7ba53fb275cd6e5",
+        "Date": "02/17/2022",
+        "Year": "2022"
+    },
+    {
         "Filename": "Sentinelone_HermeticWiper-Ukraine(02-23-2022)",
         "Title": "HermeticWiper - New Destructive Malware Used In Cyber Attacks on Ukraine",
         "Source": "sentinelone",
