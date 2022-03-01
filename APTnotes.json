@@ -5281,5 +5281,14 @@
         "SHA-1": "3c60522829454e2b55e2f2544e24668948bf980a",
         "Date": "03/01/2022",
         "Year": "2022"
+    },
+    {
+        "Filename": "CISA_AA22-054A New Sandworm Malware Cyclops Blink Replaces VPN Filter(03-23-2022)",
+        "Title": "New Sandworm Malware Cyclops Blink Replaces VPNFilter",
+        "Source": "CISA",
+        "Link": "https://app.box.com/s/2izfjfe8wgev78jqsawow0lozxtkaf4z",
+        "SHA-1": "1e7b9c2fb9c9533572df9070f118b15bdbcb6104",
+        "Date": "03/23/2022",
+        "Year": "2022"
     }
 ]
