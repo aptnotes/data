@@ -4986,6 +4986,15 @@
         "Year": "2021"
     },
     {
+        "Filename": "Cyble_APT-Targets-Indian-Defense-Enhanced-TTPs(09-14-2021)",
+        "Title": "APT Group Targets Indian Defense Officials Through Enhanced TTPs",
+        "Source": "Cyble",
+        "Link": "https://app.box.com/s/x6otivaxer0pf3hmkfzgwchig41xr7ac",
+        "SHA-1": "56fb96e4d2cd53c6683763d1f81cc69c71e8f9c6",
+        "Date": "09/14/2021",
+        "Year": "2021"
+    },
+    {
         "Filename": "Talos-OperationArmorPiercer(09-23-2021)",
         "Title": "Operation Armor Piercer: Targeted attacks in the Indian subcontinent using commercial RATs",
         "Source": "Cisco",
