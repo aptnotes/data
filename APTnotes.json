@@ -4923,6 +4923,15 @@
         "Year": "2020"
     },
     {
+        "Filename": "Cybereason_PortDoor -ChineseAPT-Targets-Russian-Defense-Sector(04-30-2021)",
+        "Title": "PortDoor: New Chinese APT Backdoor Attack Targets Russian Defense Sector",
+        "Source": "Cybereason",
+        "Link": "https://app.box.com/s/ktld8f7rvgtwn8g6zgx2stx26xypr7ck",
+        "SHA-1": "c02efad2fd7ed95d44749a8f72d57ecb46f9b9af",
+        "Date": "04/30/2021",
+        "Year": "2021"
+    },
+    {
         "Filename": "Talos_InSideCopy(07-07-2021)",
         "Title": " InSideCopy: How this APT continues to evolve its arsenal ",
         "Source": "Talos",
