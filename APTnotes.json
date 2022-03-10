@@ -4995,6 +4995,15 @@
         "Year": "2021"
     },
     {
+        "Filename": "Cyble_APT-Targets-Indian-Defense-Enhanced-TTPs(09-14-2021)",
+        "Title": "APT Group Targets Indian Defense Officials Through Enhanced TTPs",
+        "Source": "Cyble",
+        "Link": "https://app.box.com/s/x6otivaxer0pf3hmkfzgwchig41xr7ac",
+        "SHA-1": "56fb96e4d2cd53c6683763d1f81cc69c71e8f9c6",
+        "Date": "09/14/2021",
+        "Year": "2021"
+    },
+    {
         "Filename": "Talos-OperationArmorPiercer(09-23-2021)",
         "Title": "Operation Armor Piercer: Targeted attacks in the Indian subcontinent using commercial RATs",
         "Source": "Cisco",
@@ -5316,6 +5325,15 @@
         "Link": "https://app.box.com/s/6xy2tbwriztdpy8frdkjknwvfta61n2z",
         "SHA-1": "4ed602d14da6ffdcef5a9a04f1adfe906f2bca2e",
         "Date": "03/03/2022",
+        "Year": "2022"
+    },
+    {
+        "Filename": "Cisco_Iranian-MuddyWater-regionally-focused-subgroups(03-10-2022)",
+        "Title": "Iranian linked conglomerate MuddyWater comprised of regionally focused subgroups",
+        "Source": "talosintelligence",
+        "Link": "https://app.box.com/s/r0nmwkejtgytsl6q6i60hrwxgbdbzetz",
+        "SHA-1": "367ba69c8a0502752e921709a50e98b72a8903da",
+        "Date": "03/10/2022",
         "Year": "2022"
     },
     {
