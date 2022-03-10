@@ -5337,8 +5337,17 @@
         "Year": "2022"
     },
     {
+        "Filename": "Mandiant_Summary-APT41-Targeting-US-State-Governments(03-08-2022)",
+        "Title": "A Summary of APT41 Targeting U.S. State Governments",
+        "Source": "Mandiant",
+        "Link": "https://app.box.com/s/jtahutqqimavakqi7ynau7sdxrvrsw3s",
+        "SHA-1": "4625a11ec7fb6b97ac5e4882aec5c1a143483bef",
+        "Date": "03/08/2022",
+        "Year": "2022"
+    },
+    {
         "Filename": "Lab52_Lazyscripters-double-compromise-single-obfuscation(03-09-2022)",
-        "Title": "Very very lazy Lazyscripter\u2019s scripts: double compromise in a single obfuscation",
+        "Title": "Very very lazy Lazyscripter's scripts: double compromise in a single obfuscation",
         "Source": "Lab52",
         "Link": "https://app.box.com/s/3rr58tcaqth9rn1ege689pq4f94zjsgx",
         "SHA-1": "7f124e29c43dfa42c4e4d87b26bd3e18d15d21d4",
