@@ -5427,6 +5427,15 @@
         "Year": "2022"
     },
     {
+        "Filename": "cert.gov.ua-CERT-UA-4293(03-28-2022)",
+        "Title": "UAC-0056 cyberattack on Ukrainian authorities using GraphSteel and GrimPlant malware",
+        "Source": "CERT_UA",
+        "Link": "https://app.box.com/s/s9jqmfj3eqvzuvbmap8tj673tj37giqd",
+        "SHA-1": "e557448d4f67e12c6427dd89258b166a91b04ba7",
+        "Date": "03/28/2022",
+        "Year": "2022"
+    },
+    {
         "Filename": "QAX_VajraEleph-Cyber-espionage-against-Pakistani-military(03-30-2022)",
         "Title": "VajraEleph from South Asia - Cyber espionage against Pakistani military personnel revealed",
         "Source": "QAX",
