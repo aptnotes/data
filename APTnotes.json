@@ -5517,6 +5517,15 @@
         "Year": "2022"
     },
     {
+        "Filename": "Microsoft_Tarrask-malware-scheduled-tasks-defense-evasion(04-12-2022)",
+        "Title": "Tarrask malware uses scheduled tasks for defense evasion",
+        "Source": "microsoft",
+        "Link": "https://app.box.com/s/sod0q4n05p736xgu9v0mp02fddf66ljs",
+        "SHA-1": "0d80c5b363a71f4f69736cddf9b9bc2e1a632697",
+        "Date": "04/12/2022",
+        "Year": "2022"
+    },
+    {
         "Filename": "Symantec_Lazarus-Targets-Chemical-Sector(04-14-2022)",
         "Title": "Lazarus Targets Chemical Sector",
         "Source": "Symantec",
