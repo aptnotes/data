@@ -5605,5 +5605,14 @@
         "SHA-1": "e2b266f4afeaf7b3f608df75ab62abdc23f7941f",
         "Date": "04/26/2022",
         "Year": "2022"
+    },
+    {
+        "Filename": "nccgroup_LAPSUS-Recent-TTPs(04-28-2022)",
+        "Title": "LAPSUS$: Recent techniques, tactics and procedures",
+        "Source": "nccgroup",
+        "Link": "https://app.box.com/s/542vkzhswgr4y5w17jz3k5hmiu7e5rig",
+        "SHA-1": "e8c33cefaf9dc42acf2d668cf78d781fdf17c240",
+        "Date": "04/28/2022",
+        "Year": "2022"
     }
 ]
