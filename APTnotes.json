@@ -5535,6 +5535,15 @@
         "Year": "2022"
     },
     {
+        "Filename": "cert.gov.ua-CERT-UA-4490(04-18-2022)",
+        "Title": "Cyberattack on state organizations of Ukraine using the topic \"Azovstal\"",
+        "Source": "CERT-UA",
+        "Link": "https://app.box.com/s/zkk7y68zicnnb7pu9v8z6lftmkobmxzh",
+        "SHA-1": "6c477457f9443000c20ae8292713e926dc12ad97",
+        "Date": "04/18/2022",
+        "Year": "2022"
+    },
+    {
         "Filename": "Symantec-Shuckworm-Espionage-Group-Campaign-Against-Ukraine(04-20-2022)",
         "Title": "Shuckworm: Espionage Group Continues Intense Campaign Against Ukraine",
         "Source": "Symantec",
