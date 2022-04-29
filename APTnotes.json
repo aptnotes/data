@@ -5526,6 +5526,15 @@
         "Year": "2022"
     },
     {
+        "Filename": "cert.gov.ua-CERT-UA-4464(04-14-2022)",
+        "Title": "Cyberattack on state organizations of Ukraine using the malicious program IcedID",
+        "Source": "CERT-UA",
+        "Link": "https://app.box.com/s/m60pwqycvss74wpsa4rxcqkr5u1l8prj",
+        "SHA-1": "24129608075aa7b7a8e3a726a5b009c30bae881e",
+        "Date": "04/14/2022",
+        "Year": "2022"
+    },
+    {
         "Filename": "inquest_Nobelium-Israeli-Embassy-Maldoc(04-18-2022)",
         "Title": "Nobelium - Israeli Embassy Maldoc",
         "Source": "Inquest",
