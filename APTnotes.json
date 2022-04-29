@@ -5436,6 +5436,15 @@
         "Year": "2022"
     },
     {
+        "Filename": "DrWeb-telecom_research_en(03-24-2022)",
+        "Title": "Study of an APT attack on a telecommunications company in Kazakhstan",
+        "Source": "DrWeb",
+        "Link": "https://app.box.com/s/eos2gobtpnad1b9rblhy4g4ganpgdgk0",
+        "SHA-1": "c848df52070b8baac8ccb65d4a223c2370e75469",
+        "Date": "03/24/2022",
+        "Year": "2022"
+    },
+    {
         "Filename": "cert.gov.ua-CERT-UA-4293(03-28-2022)",
         "Title": "UAC-0056 cyberattack on Ukrainian authorities using GraphSteel and GrimPlant malware",
         "Source": "CERT_UA",
