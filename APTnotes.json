@@ -5544,6 +5544,15 @@
         "Year": "2022"
     },
     {
+        "Filename": "cert.gov.ua-CERT-UA-4435(04-12-2022)",
+        "Title": "Cyberattack by Sandworm Group (UAC-0082) on energy facilities of Ukraine using malicious programs INDUSTROYER2 and CADDYWIPER",
+        "Source": "CERT-UA",
+        "Link": "https://app.box.com/s/quzxjttnqs9os9im11qztck3frmi37iw",
+        "SHA-1": "69ff06f54e2333e8102da79694ce8cb2429fac5d",
+        "Date": "04/12/2022",
+        "Year": "2022"
+    },
+    {
         "Filename": "Symantec_Lazarus-Targets-Chemical-Sector(04-14-2022)",
         "Title": "Lazarus Targets Chemical Sector",
         "Source": "Symantec",
