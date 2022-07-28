@@ -1,5 +1,5 @@
 # What is it?
-APTnotes is a repository of publicly-available papers and blogs (sorted by year) related to malicious campaigns/activity/software that have been associated with vendor-defined APT (Advanced Persistent Threat) groups and/or tool-sets.
+APTnotes is a repository of publicly available papers and blogs (sorted by year) related to malicious campaigns/activity/software that has been associated with vendor-defined APT (Advanced Persistent Threat) groups and/or tool sets.
 
 # Where's that data?
 In the original repo, we maintained an ongoing README with links to all of the reports in some form (we tried) order.
