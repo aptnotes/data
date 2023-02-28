@@ -5704,5 +5704,14 @@
         "SHA-1": "88eac247905e7a62616e25117c29997cb3660307",
         "Date": "05/02/2022",
         "Year": "2022"
+    },
+    {
+        "Filename": "ESET_WinorDLL64-Lazarus-arsenal(02-23-2023)",
+        "Title": "WinorDLL64: A backdoor from the vast Lazarus arsenal?",
+        "Source": "ESET",
+        "Link": "https://app.box.com/s/vs8eitue87tx6dvbdwtxjimkg03xf7s4",
+        "SHA-1": "29308a374352e9b10395a445b54d29c44fa1a954",
+        "Date": "02/23/2023",
+        "Year": "2023"
     }
 ]
