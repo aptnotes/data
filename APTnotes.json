@@ -5706,6 +5706,15 @@
         "Year": "2022"
     },
     {
+        "Filename": "Ahnlab_HWP-Malware-Steganography-ScarCruft(02-21-2023)",
+        "Title": "HWP Malware Using the Steganography Technique: RedEyes (ScarCruft)",
+        "Source": "AhnLab",
+        "Link": "https://app.box.com/s/966vmmu8zehyqszqaygziq84fbrvvn3v",
+        "SHA-1": "18f2fa0dd7b7178ba88d5a5d412d86bf3df43c28",
+        "Date": "02/21/2023",
+        "Year": "2023"
+    },
+    {
         "Filename": "ESET_WinorDLL64-Lazarus-arsenal(02-23-2023)",
         "Title": "WinorDLL64: A backdoor from the vast Lazarus arsenal?",
         "Source": "ESET",
