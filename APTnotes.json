@@ -5706,6 +5706,15 @@
         "Year": "2022"
     },
     {
+        "Filename": "Ahnlab_Dalbit-m00nlight-Chinese-APT-Campaign(02-13-2023)",
+        "Title": "Dalbit (m00nlight): Chinese Hacker Group's APT Attack Campaign",
+        "Source": "Ahnlab",
+        "Link": "https://app.box.com/s/y8jswf42eqblw5m6cv5h7nkmy1q60dmn",
+        "SHA-1": "f8464b2e4c8ac43e64aaf9c3034286da17a2b91b",
+        "Date": "02/13/2023",
+        "Year": "2023"
+    },
+    {
         "Filename": "Ahnlab_HWP-Malware-Steganography-ScarCruft(02-21-2023)",
         "Title": "HWP Malware Using the Steganography Technique: RedEyes (ScarCruft)",
         "Source": "AhnLab",
