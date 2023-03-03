@@ -5706,6 +5706,15 @@
         "Year": "2022"
     },
     {
+        "Filename": "PaloAlto_Russias-TridentUrsa-GamaredonAPT-CyberConflic-Operations-Ukraine(12-20-2022)",
+        "Title": "Russia's Trident Ursa (aka Gamaredon APT) Cyber Conflict Operations Unwavering Since Invasion of Ukraine",
+        "Source": "Palo Alto",
+        "Link": "https://app.box.com/s/2xgd6r6ttw57hlg1gx0k2g72earqc9oy",
+        "SHA-1": "7ffa8cc48d900c15e6ac08b104610f82011496c5",
+        "Date": "12/20/2022",
+        "Year": "2022"
+    },
+    {
         "Filename": "Group-ib_DarkPink(01-11-2023)",
         "Title": "Dark Pink: New APT hitting Asia-Pacific, Europe that goes deeper and darker",
         "Source": "Group-ib",
@@ -5806,7 +5815,7 @@
     },
     {
         "Filename": "ESET_MQsTTang-MustangPandas-backdoor-Qt-MQTT(03-02-2023)",
-        "Title": "MQsTTang: Mustang Panda\u2019s latest backdoor treads new ground with Qt and MQTT",
+        "Title": "MQsTTang: Mustang Panda's latest backdoor treads new ground with Qt and MQTT",
         "Source": "ESET",
         "Link": "https://app.box.com/s/01nfw2cbbp4hi4my8tuoik8eazecd9wm",
         "SHA-1": "a315b44bfa8879deee5d9ee550e6bdf1516c6258",
