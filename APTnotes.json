@@ -5751,6 +5751,15 @@
         "Year": "2023"
     },
     {
+        "Filename": "Symantec_Graphiron-Russian-Malware-Deployed-Against-Ukraine(02-08-2023)",
+        "Title": "Graphiron: New Russian Information Stealing Malware Deployed Against Ukraine",
+        "Source": "Symantec",
+        "Link": "https://app.box.com/s/zgagcatygwcejaltkg40ij84aavt5cll",
+        "SHA-1": "232cfeb4ee7a1e9aae111eebb5574dcc970e0d9b",
+        "Date": "02/08/2023",
+        "Year": "2023"
+    },
+    {
         "Filename": "Ahnlab_Dalbit-m00nlight-Chinese-APT-Campaign(02-13-2023)",
         "Title": "Dalbit (m00nlight): Chinese Hacker Group's APT Attack Campaign",
         "Source": "Ahnlab",
