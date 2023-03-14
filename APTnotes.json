@@ -5886,6 +5886,15 @@
         "Year": "2023"
     },
     {
+        "Filename": "Mandiant_LIGHTSHOW-1-North-Koreas-UNC2970(03-09-2023)",
+        "Title": "Stealing the LIGHTSHOW (Part One) - North Korea's UNC2970",
+        "Source": "Mandiant",
+        "Link": "https://app.box.com/s/t1wj2s9hwf71dh65w5re5est9yhvh0mu",
+        "SHA-1": "e9325a67d4681c8cdfc1e2a18783142e2e74826c",
+        "Date": "03/09/2023",
+        "Year": "2023"
+    },
+    {
         "Filename": "360_APT-C-56-TransparentTribe-camouflage-campaign(02-13-2023)",
         "Title": "Analysis of APT-C-56 (Transparent Tribe) camouflage resume attack campaign",
         "Source": "CoreSec360",
