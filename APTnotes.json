@@ -5895,6 +5895,15 @@
         "Year": "2023"
     },
     {
+        "Filename": "Mandiant_LIGHTSHOW-2-LIGHTSHIFT-and-LIGHTSHOW(03-09-2023)",
+        "Title": "Stealing the LIGHTSHOW (Part Two) - LIGHTSHIFT and LIGHTSHOW",
+        "Source": "Mandiant",
+        "Link": "https://app.box.com/s/q3opc1veurizduac9fqpcptxcc7eztg0",
+        "SHA-1": "604ce904b72ea33febb00802b7b26f4d782f6f67",
+        "Date": "03/09/2023",
+        "Year": "2023"
+    },
+    {
         "Filename": "360_APT-C-56-TransparentTribe-camouflage-campaign(02-13-2023)",
         "Title": "Analysis of APT-C-56 (Transparent Tribe) camouflage resume attack campaign",
         "Source": "CoreSec360",
