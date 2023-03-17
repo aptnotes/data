@@ -5920,5 +5920,14 @@
         "SHA-1": "23219da0963e95373d5dacba4348f1ccd274fd59",
         "Date": "03/14/2023",
         "Year": "2023"
+    },
+    {
+        "Filename": "Mandiant_Fortinet-Zero-Day-Suspected-Chinese-Operation(03-16-2023)",
+        "Title": "Fortinet Zero-Day and Custom Malware Used by Suspected Chinese Actor in Espionage Operation",
+        "Source": "mandiant",
+        "Link": "https://app.box.com/s/iii4w6dhgx5q3ty6wqw3blcwquf074rq",
+        "SHA-1": "d4d5053d7057f5fd24a4e431de95c2efc33b3a59",
+        "Date": "03/16/2023",
+        "Year": "2023"
     }
 ]
