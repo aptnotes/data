@@ -5914,7 +5914,7 @@
     },
     {
         "Filename": "ESET_Tick-APT-compromise-DLP-developer-East-Asia(03-14-2023)",
-        "Title": "The slow Tick\u2011ing time bomb: Tick APT group compromise of a DLP software developer in East Asia",
+        "Title": "The slow Ticking time bomb: Tick APT group compromise of a DLP software developer in East Asia",
         "Source": "ESET",
         "Link": "https://app.box.com/s/m37w9blhczmsgr4cmhjfxu432zca4sdj",
         "SHA-1": "23219da0963e95373d5dacba4348f1ccd274fd59",
@@ -5928,6 +5928,15 @@
         "Link": "https://app.box.com/s/iii4w6dhgx5q3ty6wqw3blcwquf074rq",
         "SHA-1": "d4d5053d7057f5fd24a4e431de95c2efc33b3a59",
         "Date": "03/16/2023",
+        "Year": "2023"
+    },
+    {
+        "Filename": "PaloAlto_NewToolSet-Organizations-in-Middle-East-Africa-and-US(12-01-2023)",
+        "Title": "New Tool Set Found Used Against Organizations in the Middle East, Africa and the US",
+        "Source": "Palo Alto Networks",
+        "Link": "https://app.box.com/s/z7lwcyx3tk4dlsw4bivcrsi7gaj4u4vs",
+        "SHA-1": "e16339ec8a52ad200eae8d0fb6be95550d8f9c07",
+        "Date": "12/01/2023",
         "Year": "2023"
     },
     {
