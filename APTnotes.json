@@ -5931,6 +5931,15 @@
         "Year": "2023"
     },
     {
+        "Filename": "CoreSec360_APT-C-36-BlindEagle-Amadey-botnet(10-31-2023)",
+        "Title": "Analysis of activities of suspected APT-C-36 (Blind Eagle) organization launching Amadey botnet Trojan",
+        "Source": "360",
+        "Link": "https://app.box.com/s/ubdtp5ptp5mk79x2d1cutpsr4cik8af0",
+        "SHA-1": "5e1d8f90ff100844c70bc6c663ffe26771881cd7",
+        "Date": "10/31/2023",
+        "Year": "2023"
+    },
+    {
         "Filename": "Blackberry_AeroBlade-Targeting-US-Aerospace-Industry(11-30-2023)",
         "Title": "AeroBlade on the Hunt Targeting the U.S. Aerospace Industry",
         "Source": "Blackberry",
