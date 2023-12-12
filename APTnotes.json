@@ -5186,7 +5186,7 @@
     {
         "Filename": "SentinalOne_modified-elephant-apt(02-09-2022)",
         "Title": "Modified Elephant APT and a Decade of Fabricating Evidence",
-        "Source": "Sentinal One",
+        "Source": "SentinalOne",
         "Link": "https://app.box.com/s/u4ugjnwl2w9f7pdfz22uh1l7cqc3xpdr",
         "SHA-1": "892e3677718b44d08c8b95f63867c55215931363",
         "Date": "02/09/2022",
@@ -5762,7 +5762,7 @@
     {
         "Filename": "Trendmicro_New-APT34-Malware-Targets-MiddleEast(02-02-2023)",
         "Title": "New APT34 Malware Targets The Middle East",
-        "Source": "Trendmicro",
+        "Source": "Trend Micro",
         "Link": "https://app.box.com/s/9us9hqv5o7pnbt748p9g0o6lg3w7vdgo",
         "SHA-1": "8e4de1d12b7d3b27bb649689bab287dcf1f5fe46",
         "Date": "02/02/2023",
@@ -5852,7 +5852,7 @@
     {
         "Filename": "Trendmicro_IronTigers-SysUpdate-Adds-Linux-Targeting(03-01-2023)",
         "Title": "Iron Tiger's SysUpdate Reappears, Adds Linux Targeting",
-        "Source": "Trendmicro",
+        "Source": "Trend Micro",
         "Link": "https://app.box.com/s/oyd0m0chatq9m025mjs21umb3xivhw3s",
         "SHA-1": "5af93af18d82bd2525635dc8a5d29126e05207ee",
         "Date": "03/01/2023",
@@ -5933,9 +5933,18 @@
     {
         "Filename": "CoreSec360_APT-C-36-BlindEagle-Amadey-botnet(10-31-2023)",
         "Title": "Analysis of activities of suspected APT-C-36 (Blind Eagle) organization launching Amadey botnet Trojan",
-        "Source": "360",
+        "Source": "CoreSec360",
         "Link": "https://app.box.com/s/ubdtp5ptp5mk79x2d1cutpsr4cik8af0",
         "SHA-1": "5e1d8f90ff100844c70bc6c663ffe26771881cd7",
+        "Date": "10/31/2023",
+        "Year": "2023"
+    },
+    {
+        "Filename": "Checkpoint_Fro-Albania-to-MiddleEast-Scarred-Manticore(10-31-2023)",
+        "Title": "From Albania To The Middle East: The Scarred Manticore Is Listening",
+        "Source": "Checkpoint",
+        "Link": "https://app.box.com/s/7xa41s13wmuno6koqkuknexpsffehzdt",
+        "SHA-1": "18c0a89c955b06ef112a48590e14879c919c72b4",
         "Date": "10/31/2023",
         "Year": "2023"
     },
