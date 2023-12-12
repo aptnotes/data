@@ -5967,6 +5967,15 @@
         "Year": "2023"
     },
     {
+        "Filename": "Kaspersky_HrServ-webshell-in-APT-attack(11-22-2023)",
+        "Title": "HrServ \u2013 Previously unknown web shell used in APT attack",
+        "Source": "Kaspersky",
+        "Link": "https://app.box.com/s/cexiy4us0t2ygcu6mewyys4aad5ogv83",
+        "SHA-1": "312885ec160f68228c8ec450e3f61b54a25e17d5",
+        "Date": "11/22/2023",
+        "Year": "2023"
+    },
+    {
         "Filename": "Blackberry_AeroBlade-Targeting-US-Aerospace-Industry(11-30-2023)",
         "Title": "AeroBlade on the Hunt Targeting the U.S. Aerospace Industry",
         "Source": "Blackberry",
