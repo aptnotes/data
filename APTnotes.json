@@ -5977,7 +5977,7 @@
     },
     {
         "Filename": "Kaspersky_HrServ-webshell-in-APT-attack(11-22-2023)",
-        "Title": "HrServ \u2013 Previously unknown web shell used in APT attack",
+        "Title": "HrServ - Previously unknown web shell used in APT attack",
         "Source": "Kaspersky",
         "Link": "https://app.box.com/s/cexiy4us0t2ygcu6mewyys4aad5ogv83",
         "SHA-1": "312885ec160f68228c8ec450e3f61b54a25e17d5",
@@ -6009,6 +6009,15 @@
         "Link": "https://app.box.com/s/xs2z8yf59q58ph1qn5sqr92sj2g6zefo",
         "SHA-1": "a224702fbdf785b482d562117dddf5d4fd848208",
         "Date": "12/08/2023",
+        "Year": "2023"
+    },
+    {
+        "Filename": "Sentinelone_GazaCybergang -UnifiedFront-Targeting-Opposition(12-14-2023)",
+        "Title": "Gaza Cybergang | Unified Front Targeting Hamas Opposition",
+        "Source": "Sentinelone",
+        "Link": "https://app.box.com/s/7zzj7ykuxqvc32jj5w9jcgnv3kvfbxpw",
+        "SHA-1": "e8a83611d700dbc67bff004984b05714471b00c4",
+        "Date": "12/14/2023",
         "Year": "2023"
     }
 ]
