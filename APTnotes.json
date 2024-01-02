@@ -6066,6 +6066,15 @@
         "Year": "2023"
     },
     {
+        "Filename": "CERT-UA-8338(12-21-2023)",
+        "Title": "New UAC-0050 attack using RemcosRAT",
+        "Source": "CERT-UA",
+        "Link": "https://app.box.com/s/2smmew2ne68u13vfh3gmx9rd4w6tzlt9",
+        "SHA-1": "0d7df9ae534779b6ee238c2d882e75e7b80797e0",
+        "Date": "12/21/2023",
+        "Year": "2023"
+    },
+    {
         "Filename": "CERT-UA-8399(12-28-2023)",
         "Title": "APT28: From Initial Damage to Domain Controller Threats in an Hour",
         "Source": "CERT-UA",
