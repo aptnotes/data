@@ -6075,6 +6075,15 @@
         "Year": "2023"
     },
     {
+        "Filename": "Deepinstinct_TA-UAC-0099-Continues-Target-Ukraine(12-21-2023)",
+        "Title": "Threat Actor 'UAC-0099' Continues to Target Ukraine",
+        "Source": "Deepinstinct",
+        "Link": "https://app.box.com/s/dd69xw7nerwy3w6zkqapfwhrsacgtxxj",
+        "SHA-1": "b0cce40bbc4e54a2742d25794bc5311cd958c2b2",
+        "Date": "12/21/2023",
+        "Year": "2023"
+    },
+    {
         "Filename": "CERT-UA-8399(12-28-2023)",
         "Title": "APT28: From Initial Damage to Domain Controller Threats in an Hour",
         "Source": "CERT-UA",
