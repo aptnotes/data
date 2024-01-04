@@ -2691,6 +2691,15 @@
         "Year": "2015"
     },
     {
+        "Filename": "Symantec_CadelSpy-Remexi-IOC(12-07-2015)",
+        "Title": "Backdoor.Cadelspy and Backdoor.Remexi indicators of compromise",
+        "Source": "Symantec",
+        "Link": "https://app.box.com/s/k351gsuaj647jtmwmukmtem31oszg1tv",
+        "SHA-1": "a3d9e8a14cf1729af25bf64193ac17bf9da56a20",
+        "Date": "12/07/2015",
+        "Year": "2015"
+    },
+    {
         "Filename": "Kaspersky_Evolution-of-Cyber-Threats-in-the-Corporate-Sector(Dec-10-2015)",
         "Title": "Evolution of Cyber Threats in the Corporate Sector",
         "Source": "Kaspersky",
